@@ -1,1 +1,1 @@
-fox version 1.0
+fox version 2.0
